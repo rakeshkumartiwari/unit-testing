@@ -6,7 +6,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "test": "ng test"
+    "test": "ng test",
+    " prod-build-dev": "ng build --prod --build-optimizer"
   },
   "keywords": [],
   "author": "",
